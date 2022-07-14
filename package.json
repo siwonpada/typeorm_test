@@ -16,6 +16,7 @@
    },
    "scripts": {
       "start": "ts-node src/index.ts",
+      "test": "ts-node src/insert_data.ts",
       "typeorm": "typeorm-ts-node-commonjs"
    }
 }
